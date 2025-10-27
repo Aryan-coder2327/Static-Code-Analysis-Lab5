@@ -1,0 +1,19 @@
+************* Module inventory_system_fixed
+inventory_system_fixed.py:23:8: W1203: Use lazy % formatting in logging functions (logging-fstring-interpolation)
+inventory_system_fixed.py:27:8: W1203: Use lazy % formatting in logging functions (logging-fstring-interpolation)
+inventory_system_fixed.py:39:8: W1203: Use lazy % formatting in logging functions (logging-fstring-interpolation)
+inventory_system_fixed.py:52:11: W0718: Catching too general exception Exception (broad-exception-caught)
+inventory_system_fixed.py:47:16: W1203: Use lazy % formatting in logging functions (logging-fstring-interpolation)
+inventory_system_fixed.py:49:12: W1203: Use lazy % formatting in logging functions (logging-fstring-interpolation)
+inventory_system_fixed.py:51:8: W1203: Use lazy % formatting in logging functions (logging-fstring-interpolation)
+inventory_system_fixed.py:53:8: W1203: Use lazy % formatting in logging functions (logging-fstring-interpolation)
+inventory_system_fixed.py:63:4: W0603: Using the global statement (global-statement)
+inventory_system_fixed.py:69:8: W1203: Use lazy % formatting in logging functions (logging-fstring-interpolation)
+inventory_system_fixed.py:72:8: W1203: Use lazy % formatting in logging functions (logging-fstring-interpolation)
+inventory_system_fixed.py:81:11: W0718: Catching too general exception Exception (broad-exception-caught)
+inventory_system_fixed.py:82:8: W1203: Use lazy % formatting in logging functions (logging-fstring-interpolation)
+inventory_system_fixed.py:5:0: W0611: Unused datetime imported from datetime (unused-import)
+
+-----------------------------------
+Your code has been rated at 8.06/10
+
